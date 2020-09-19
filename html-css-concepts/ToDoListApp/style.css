@@ -1,0 +1,37 @@
+* {    
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+  }
+
+  .starter-template {
+    padding: 40px 15px;
+    text-align: center;
+  }
+
+  .content-area {
+    margin: 30px;
+  }
+  
+  .task-text {
+    display: flex;
+    align-items: center;
+    height: 40px;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .delete-icon-area {
+    display: flex;
+    align-items: center;
+    height: 40px;
+  }
+
+  .delete-icon {
+    color: red;
+  }
+  
+  .complete {
+    text-decoration: line-through;
+  }

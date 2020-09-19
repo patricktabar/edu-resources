@@ -1,0 +1,57 @@
+body {
+	font: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    /* letter-spacing: .5em; */
+    top: 15%;
+	background: linear-gradient(to right, #9104A9 , #BDC538); /* Standard syntax */
+}
+
+header {
+    margin-top: 20%;
+    margin-bottom: 50px;    
+}
+
+h1{
+    font-size: 6rem;
+    font-weight: 900;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 2.2rem;
+    font-weight: 900;
+    color: rgba(255, 255, 255, 0.76);    
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px #313131;
+}
+
+input {
+    width: 200px;
+    height: 43px;
+    cursor: pointer;
+    padding: 1px 1px;
+    border-style: hidden;
+    background-color: rgba(255, 255, 255, 0);
+    color: -internal-light-dark-color(rgb(252, 0, 0), rgb(133, 68, 68));
+}
+
+code {
+    margin: 0px 100px 10px 100px; 
+    word-wrap: break-word;
+    border-left: 8px #BDC538;
+    border-style: solid;
+    text-align: left;
+
+    -webkit-box-shadow: 2px 2px 15px 0px rgba(49,49,49,1);
+    -moz-box-shadow: 2px 2px 15px 0px rgba(49,49,49,1);
+    box-shadow: 2px 2px 15px 0px rgba(49,49,49,1);
+
+}
+
+label {
+    margin: 50px 300px 0px 300px;
+}

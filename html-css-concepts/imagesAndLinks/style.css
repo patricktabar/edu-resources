@@ -1,0 +1,46 @@
+body {
+    background-color:gray;
+    font-family: 'Raleway';
+}
+
+h1 {    
+    font-size: 2.5rem;
+    color: white;
+}
+
+h2 {    
+    font-size: 1.2rem;
+    color: rgb(206, 206, 206);
+}
+
+.div {
+    background-color: white;
+    margin: 5px;
+    padding: 2px;
+}
+
+p {
+    font-size: 0.8rem;
+}
+
+.list {
+    background-color: cadetblue;
+    color: rgb(68, 68, 68);
+    font-weight: bold;
+    font-size: medium;
+    margin: 3px;
+}
+
+.items {
+    color: white;
+    font-weight: bold;
+    font-size: small;
+}
+
+.emoti {
+    width: 100px;
+    height: 100px;
+    padding: 2px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
